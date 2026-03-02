@@ -1,0 +1,159 @@
+{
+  "questions": [
+    {
+      "id": "74b0643f-2a6a-46c7-8f8a-0ad0ca04b518",
+      "question": "¿Cuáles son sus horarios de atención?",
+      "response": "Nuestros horarios de atención son de lunes a viernes de 8:00 AM a 6:00 PM, y sábados de 9:00 AM a 2:00 PM.",
+      "keywords": [
+        "horarios",
+        "atencion",
+        "horario",
+        "abierto"
+      ],
+      "category": "horarios",
+      "createdAt": "2026-03-02T15:22:36.184Z",
+      "updatedAt": "2026-03-02T15:22:36.184Z",
+      "active": true
+    },
+    {
+      "id": "666c149d-cdbc-43cd-bed3-66169f76e630",
+      "question": "¿Cómo puedo contactarlos?",
+      "response": "Puedes contactarnos por teléfono al (555) 123-4567, por email a info@empresa.com, o visitarnos en nuestra oficina en Calle Principal 123.",
+      "keywords": [
+        "contacto",
+        "telefono",
+        "email",
+        "direccion"
+      ],
+      "category": "contacto",
+      "createdAt": "2026-03-02T15:22:36.184Z",
+      "updatedAt": "2026-03-02T15:22:36.184Z",
+      "active": true
+    },
+    {
+      "id": "c01145fe-196d-4883-8c32-9f09b91c4c7f",
+      "question": "¿Qué servicios ofrecen?",
+      "response": "Ofrecemos servicios de consultoría tecnológica, desarrollo de software, soporte técnico, y capacitación empresarial.",
+      "keywords": [
+        "servicios",
+        "consultoria",
+        "desarrollo",
+        "soporte"
+      ],
+      "category": "servicios",
+      "createdAt": "2026-03-02T15:22:36.184Z",
+      "updatedAt": "2026-03-02T15:22:36.184Z",
+      "active": true
+    },
+    {
+      "id": "eebb729a-4488-48f3-a895-da259ffa0010",
+      "question": "¿Cuáles son sus precios?",
+      "response": "Nuestros precios varían según el servicio. Para consultoría: $100/hora, desarrollo: desde $2000/proyecto, soporte: $50/hora. Contáctanos para una cotización personalizada.",
+      "keywords": [
+        "precios",
+        "costos",
+        "tarifas",
+        "cotizacion"
+      ],
+      "category": "precios",
+      "createdAt": "2026-03-02T15:22:36.184Z",
+      "updatedAt": "2026-03-02T15:22:36.184Z",
+      "active": true
+    },
+    {
+      "id": "689f9fcd-024d-40ac-b5a8-002af4f69ce0",
+      "question": "¿Dónde están ubicados?",
+      "response": "Estamos ubicados en Calle Principal 123, Centro de la Ciudad, CP 12345. Cerca del metro estación Central.",
+      "keywords": [
+        "ubicacion",
+        "direccion",
+        "donde",
+        "localizacion"
+      ],
+      "category": "ubicacion",
+      "createdAt": "2026-03-02T15:22:36.184Z",
+      "updatedAt": "2026-03-02T15:22:36.184Z",
+      "active": true
+    },
+    {
+      "id": "cdab97e1-c0a5-49c2-b6d9-133a7569dec0",
+      "question": "¿Ofrecen soporte técnico?",
+      "response": "Sí, ofrecemos soporte técnico 24/7 para nuestros clientes premium, y soporte en horario laboral para clientes estándar.",
+      "keywords": [
+        "soporte",
+        "tecnico",
+        "ayuda",
+        "asistencia"
+      ],
+      "category": "soporte",
+      "createdAt": "2026-03-02T15:22:36.184Z",
+      "updatedAt": "2026-03-02T15:22:36.184Z",
+      "active": true
+    },
+    {
+      "id": "ef5f3b0d-7acf-48e1-bdbb-e6eacf89e77d",
+      "question": "¿Cuál es su política de reembolsos?",
+      "response": "Ofrecemos reembolso completo dentro de los primeros 30 días si no estás satisfecho con nuestros servicios.",
+      "keywords": [
+        "reembolso",
+        "devolucion",
+        "politica",
+        "garantia"
+      ],
+      "category": "politicas",
+      "createdAt": "2026-03-02T15:22:36.185Z",
+      "updatedAt": "2026-03-02T15:22:36.185Z",
+      "active": true
+    },
+    {
+      "id": "ace5b112-c186-4e54-bab8-7a576feb0356",
+      "question": "¿Tienen promociones actuales?",
+      "response": "Actualmente tenemos 20% de descuento en servicios de consultoría para nuevos clientes y 15% en paquetes de desarrollo.",
+      "keywords": [
+        "promociones",
+        "descuentos",
+        "ofertas",
+        "especiales"
+      ],
+      "category": "promociones",
+      "createdAt": "2026-03-02T15:22:36.185Z",
+      "updatedAt": "2026-03-02T15:22:36.185Z",
+      "active": true
+    },
+    {
+      "id": "c15cfcaa-c623-47b6-bc12-6a510cf547a2",
+      "question": "¿Qué experiencia tienen?",
+      "response": "Tenemos más de 10 años de experiencia en el sector tecnológico, con más de 200 proyectos exitosos y clientes satisfechos.",
+      "keywords": [
+        "experiencia",
+        "trayectoria",
+        "anos",
+        "proyectos"
+      ],
+      "category": "informacion",
+      "createdAt": "2026-03-02T15:22:36.185Z",
+      "updatedAt": "2026-03-02T15:22:36.185Z",
+      "active": true
+    },
+    {
+      "id": "a728a78a-12aa-450c-82bc-42f9df9f6624",
+      "question": "¿Trabajan con empresas pequeñas?",
+      "response": "Sí, trabajamos con empresas de todos los tamaños, desde startups hasta grandes corporaciones. Adaptamos nuestros servicios a cada necesidad.",
+      "keywords": [
+        "empresas",
+        "pequenas",
+        "startups",
+        "tamano"
+      ],
+      "category": "servicios",
+      "createdAt": "2026-03-02T15:22:36.185Z",
+      "updatedAt": "2026-03-02T15:22:36.185Z",
+      "active": true
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "createdAt": "2026-03-02T15:22:36.185Z",
+    "lastUpdated": "2026-03-02T15:22:36.197Z"
+  }
+}
